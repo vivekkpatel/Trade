@@ -14,4 +14,4 @@
 - As shown in below image there's no correct way to enter
 - all entry points are trade off between capturing a move with a big size vs getting shaken out, or even entring in a move that was never there
 
-![Inside Bar Example](../assets/Concepts/InsideBar1.png)
+![Inside Bar Example](../Images/Concepts/InsideBar1.png)

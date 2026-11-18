@@ -7,17 +7,17 @@
 
 </aside>
 
-![Untitled](../assets/MI8/Untitled.webp)
+![Untitled](../Images/MI8/Untitled.webp)
 
 ### Don’t chase your stocks
 
-![Untitled](../assets/MI8/Untitled%201.webp)
+![Untitled](../Images/MI8/Untitled%201.webp)
 
-![Untitled](../assets/MI8/Untitled%202.webp)
+![Untitled](../Images/MI8/Untitled%202.webp)
 
-![Untitled](../assets/MI8/Untitled%203.webp)
+![Untitled](../Images/MI8/Untitled%203.webp)
 
-![Untitled](../assets/MI8/Untitled%204.webp)
+![Untitled](../Images/MI8/Untitled%204.webp)
 
 ## Exhaustion Tops
 
@@ -29,33 +29,33 @@ Along with that news about the stock is very positive. This is being done to mak
 
 ## Risk Management
 
-![Untitled](../assets/MI8/Untitled%205.webp)
+![Untitled](../Images/MI8/Untitled%205.webp)
 
-![Untitled](../assets/MI8/Untitled%206.webp)
+![Untitled](../Images/MI8/Untitled%206.webp)
 
-![Untitled](../assets/MI8/Untitled%207.webp)
+![Untitled](../Images/MI8/Untitled%207.webp)
 
-![Untitled](../assets/MI8/Untitled%208.webp)
+![Untitled](../Images/MI8/Untitled%208.webp)
 
-![Untitled](../assets/MI8/Untitled%209.webp)
+![Untitled](../Images/MI8/Untitled%209.webp)
 
-![Untitled](../assets/MI8/Untitled%2010.webp)
+![Untitled](../Images/MI8/Untitled%2010.webp)
 
-![Untitled](../assets/MI8/Untitled%2011.webp)
+![Untitled](../Images/MI8/Untitled%2011.webp)
 
-![Untitled](../assets/MI8/Untitled%2012.webp)
+![Untitled](../Images/MI8/Untitled%2012.webp)
 
 ## Buy Checklist
 
-![Untitled](../assets/MI8/Untitled%2013.webp)
+![Untitled](../Images/MI8/Untitled%2013.webp)
 
 ### Counting Bases
 
-![Untitled](../assets/MI8/Untitled%2014.webp)
+![Untitled](../Images/MI8/Untitled%2014.webp)
 
-![Untitled](../assets/MI8/Untitled%2015.webp)
+![Untitled](../Images/MI8/Untitled%2015.webp)
 
-![Untitled](../assets/MI8/Untitled%2016.webp)
+![Untitled](../Images/MI8/Untitled%2016.webp)
 
 we neeed atleast 4 weeks of  consolidation to count as base, and next base must be 20% uptrend from previews one
 
@@ -65,10 +65,10 @@ Stage1 is best buy point
 
 stage4 is strict no
 
-![Untitled](../assets/MI8/Untitled%2017.webp)
+![Untitled](../Images/MI8/Untitled%2017.webp)
 
 what
 
-![Untitled](../assets/MI8/Untitled%2018.webp)
+![Untitled](../Images/MI8/Untitled%2018.webp)
 
-![Untitled](../assets/MI8/Untitled%2019.webp)
+![Untitled](../Images/MI8/Untitled%2019.webp)

@@ -13,5 +13,5 @@
 ### Chart Samples
 
 - Raymond Base on base breakout after market crash
-    - ![Bob1](../assets/Chart Patterns/Bob1.png)
-    - ![Bob2](../assets/Chart Patterns/Bob2.png)
+    - ![Bob1](../Images/Chart Patterns/Bob1.png)
+    - ![Bob2](../Images/Chart Patterns/Bob2.png)
