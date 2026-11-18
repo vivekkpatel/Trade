@@ -5,7 +5,6 @@ repo_name = "Trade"
 repo_url = "https://github.com/vivekkpatel/Trade"
 edit_uri = "edit/main/docs/"
 copyright = "Copyright &copy; 2025 Nodes Automations"
-
 [project.extra]
 generator = false
 
@@ -20,13 +19,6 @@ features = [
   "navigation.path",
   "navigation.tabs",
   "navigation.indexes",
-  "navigation.instant",
-  "navigation.instant.prefetch",
-  "navigation.tracking",
-  "search.suggest",
-  "search.highlight",
-  "toc.follow",
-  "header.autohide",
 ]
 palette = [
   { scheme = "default", primary = "indigo", accent = "indigo", toggle = { icon = "material/brightness-7", name = "Switch to dark mode" } },
@@ -51,6 +43,3 @@ pymdownx.superfences.custom_fences = [
 pymdownx.arithmatex.generic = true
 def_list = {}
 pymdownx.tasklist.custom_checkbox = true
-attr_list = {}
-pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
-pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
